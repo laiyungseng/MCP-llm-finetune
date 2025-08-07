@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MCP-LLM Agent Tool + Ollama Fine-Tuning
 
 This repository contains a function-calling LLM agent system using a modular architecture (LangGraph-inspired) and supports fine-tuning an Ollama-compatible model. The goal is to build an intelligent agent capable of interacting with real-world tools and improve its domain understanding via fine-tuning.
@@ -117,6 +118,10 @@ MIT License — feel free to use and adapt the code with proper attribution.
 Developed by Lai Yungseng
 AI/ML Engineer | LLM Workflow Builder | Automation Specialist
 GitHub | LinkedIn
+=======
+# MCP-llm-finetune
+Implementing mcp to allow llm to perform task/ funtion calling. Included ollama fine tuning to tune llama.3.2 to to more adapt to function calling and reasoning.
+>>>>>>> 5f02350192c0a1e0b0e8805bda552b15964f136c
 =======
 # MCP-llm-finetune
 Implementing mcp to allow llm to perform task/ funtion calling. Included ollama fine tuning to tune llama.3.2 to to more adapt to function calling and reasoning.
