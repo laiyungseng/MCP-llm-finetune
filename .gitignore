@@ -1,0 +1,5 @@
+#ignore everything in out directory
+lora_model/
+lora_model2/
+out/
+token.json

@@ -1,0 +1,26 @@
+[project]
+name = "fine-tune"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cuda-python>=12.9.0",
+    "flask>=3.1.1",
+    "google-api-python-client>=2.176.0",
+    "google-auth-httplib2>=0.2.0",
+    "google-auth-oauthlib>=1.2.2",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.68",
+    "langchain-ollama>=0.3.4",
+    "npx>=0.1.6",
+    "ollama>=0.5.1",
+    "openai>=1.95.0",
+    "requests>=2.32.4",
+    "scikit-learn>=1.7.0",
+    "torch>=2.7.1",
+    "unsloth>=2025.7.3",
+    "yfinance>=0.2.65",
+]
